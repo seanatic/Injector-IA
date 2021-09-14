@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/htdocs/CMakeFiles/htdocs"
+		},
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/htdocs/CMakeFiles/htdocs.rule"
+		},
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/htdocs/htdocs.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HTDOCS"
+		],
+		"name" : "htdocs"
+	}
+}

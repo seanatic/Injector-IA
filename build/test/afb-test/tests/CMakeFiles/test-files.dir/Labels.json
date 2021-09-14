@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/tests/CMakeFiles/test-files"
+		},
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/tests/CMakeFiles/test-files.rule"
+		},
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/tests/test-files.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TEST-DATA"
+		],
+		"name" : "test-files"
+	}
+}

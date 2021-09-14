@@ -1,0 +1,4 @@
+# Target labels
+ BINDING
+# Source files and their labels
+/home/ubs-cloud/workspace/helloworld-binding/helloworld-skeleton/helloworld-service-binding.c

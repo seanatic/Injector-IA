@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/test/afb-test/fixtures/CMakeFiles/fixture-files"
+		},
+		{
+			"file" : "/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/test/afb-test/fixtures/CMakeFiles/fixture-files.rule"
+		},
+		{
+			"file" : "/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/test/afb-test/fixtures/fixture-files.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TEST-DATA"
+		],
+		"name" : "fixture-files"
+	}
+}

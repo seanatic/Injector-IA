@@ -1,0 +1,6 @@
+# Target labels
+ TEST-CONFIG
+# Source files and their labels
+/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/test/afb-test/etc/CMakeFiles/helloworld-config
+/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/test/afb-test/etc/CMakeFiles/helloworld-config.rule
+/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/test/afb-test/etc/helloworld-config.rule

@@ -1,0 +1,6 @@
+# Target labels
+ HTDOCS
+# Source files and their labels
+/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/htdocs/CMakeFiles/htdocs
+/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/htdocs/CMakeFiles/htdocs.rule
+/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/htdocs/htdocs.rule

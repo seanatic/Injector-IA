@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/fixtures/CMakeFiles/fixture-files"
+		},
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/fixtures/CMakeFiles/fixture-files.rule"
+		},
+		{
+			"file" : "/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/fixtures/fixture-files.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TEST-DATA"
+		],
+		"name" : "fixture-files"
+	}
+}

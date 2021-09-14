@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubs-cloud/workspace/helloworld-binding/helloworld-subscribe-event/helloworld-event-service-binding.c
+stdio.h
+-
+string.h
+-
+json-c/json.h
+-
+wrap-json.h
+/home/ubs-cloud/workspace/helloworld-binding/helloworld-subscribe-event/wrap-json.h
+afb/afb-binding.h
+-
+afb-timer.h
+-
+

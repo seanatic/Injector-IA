@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="helloworld-binding" version="1.0-67a0dbc-dirty">
+  <name>helloworld-binding</name>
+  <icon src="icon.png"/>
+  <content src="config.xml" type="application/vnd.agl.service"/>
+  <description>Provide an Helloworld Binding</description>
+  <author>Iot-Team &lt;frederic.marec@iot.bzh&gt;</author>
+  <license>APL2.0</license>
+</widget>

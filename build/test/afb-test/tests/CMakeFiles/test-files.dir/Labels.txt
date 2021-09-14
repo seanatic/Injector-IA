@@ -1,0 +1,6 @@
+# Target labels
+ TEST-DATA
+# Source files and their labels
+/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/tests/CMakeFiles/test-files
+/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/tests/CMakeFiles/test-files.rule
+/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/tests/test-files.rule

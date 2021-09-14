@@ -1,0 +1,5 @@
+agl-helloworld-binding (1.0-67a0dbc-dirty-0) UNRELEASED; urgency=low
+
+  * init build
+
+ -- Iot-Team <frederic.marec@iot.bzh>  Mon, 25 Dec 2007 10:50:38 +0100

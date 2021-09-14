@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -Wl,--version-script=/usr/share/cmake-3.16/Modules/CMakeAfbTemplates/cmake/export.map -shared  -o afb-helloworld-skeleton.so CMakeFiles/helloworld-skeleton.dir/helloworld-service-binding.c.o  -Wl,--as-needed -Wl,--gc-sections -ljson-c -lafb-libhelpers -lsystemd 

@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/htdocs/CMakeFiles/htdocs"
+		},
+		{
+			"file" : "/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/htdocs/CMakeFiles/htdocs.rule"
+		},
+		{
+			"file" : "/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/build_tbultel/htdocs/htdocs.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HTDOCS"
+		],
+		"name" : "htdocs"
+	}
+}

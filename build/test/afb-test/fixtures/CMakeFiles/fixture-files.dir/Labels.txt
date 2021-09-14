@@ -1,0 +1,6 @@
+# Target labels
+ TEST-DATA
+# Source files and their labels
+/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/fixtures/CMakeFiles/fixture-files
+/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/fixtures/CMakeFiles/fixture-files.rule
+/home/ubs-cloud/workspace/helloworld-binding/build/test/afb-test/fixtures/fixture-files.rule

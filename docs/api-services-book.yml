@@ -1,0 +1,15 @@
+type: books
+books:
+
+-
+    id: helloworld-binding-doc
+    title: Helloworld binding
+    description: 
+    keywords:
+    chapters:
+    - url: 1-Architecture.md
+      name: Architecture presentation
+    - url: 2-Installation.md
+      name: Installation Guide
+    - url: 3-Usage.md
+      name: Usage Guide

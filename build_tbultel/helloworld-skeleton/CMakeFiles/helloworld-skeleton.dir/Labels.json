@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/thierry/Seanatic/ubs-cloud/workspace/helloworld-binding/helloworld-skeleton/helloworld-service-binding.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BINDING"
+		],
+		"name" : "helloworld-skeleton"
+	}
+}
